@@ -1,3 +1,3 @@
 # Intro to Software Enginerring
 ## temporary 
-This is not my first project on github. 
+This is not my first projet on github. 
